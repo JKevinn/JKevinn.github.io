@@ -6,6 +6,7 @@ body {
   padding: 0;
   background-color: #413F42;
   background-size: cover;
+
 }
 .navbar {
   position: relative;
@@ -105,6 +106,10 @@ img {
   max-height: 200px;
 }
 .container-portofolio{
+  margin: 100px 0px;
+  padding: 3rem 0;
+}
+.container-e-sertifikat{
   margin: 100px 0px;
   padding: 3rem 0;
 }
